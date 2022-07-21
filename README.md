@@ -1,6 +1,7 @@
 # Idle-Farm
 
-Idle Farm gameplay concept.
+Test task. Idle Farm gameplay concept.
+Made without DOTween.
 
 Gameplay video: https://drive.google.com/file/d/1pFduq_K_QcrOcTWM3Lkm2F93cqYPhpyB/view?usp=sharing
 
